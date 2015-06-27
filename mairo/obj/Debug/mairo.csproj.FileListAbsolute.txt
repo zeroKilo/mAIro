@@ -1,0 +1,16 @@
+c:\code\c#\mairo\mairo\bin\Debug\mairo.exe.config
+c:\code\c#\mairo\mairo\bin\Debug\mairo.exe
+c:\code\c#\mairo\mairo\bin\Debug\mairo.pdb
+c:\code\c#\mairo\mairo\obj\Debug\mairo.csprojResolveAssemblyReference.cache
+c:\code\c#\mairo\mairo\obj\Debug\mairo.exe
+c:\code\c#\mairo\mairo\obj\Debug\mairo.pdb
+C:\code\c#\mairo\mairo\obj\Debug\mairo.Display.resources
+C:\code\c#\mairo\mairo\obj\Debug\mairo.csproj.GenerateResource.Cache
+D:\CODE\c#\mairo.v12\mairo\bin\Debug\mairo.exe.config
+D:\CODE\c#\mairo.v12\mairo\obj\Debug\mairo.exe
+D:\CODE\c#\mairo.v12\mairo\obj\Debug\mairo.pdb
+D:\CODE\c#\mairo.v12\mairo\bin\Debug\mairo.exe
+D:\CODE\c#\mairo.v12\mairo\bin\Debug\mairo.pdb
+D:\CODE\c#\mairo.v12\mairo\obj\Debug\mairo.csprojResolveAssemblyReference.cache
+D:\CODE\c#\mairo.v12\mairo\obj\Debug\mairo.Display.resources
+D:\CODE\c#\mairo.v12\mairo\obj\Debug\mairo.csproj.GenerateResource.Cache
